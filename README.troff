@@ -1,0 +1,57 @@
+.TH JUST-A-LINE-NEXT 7 "2026" "Just a Line Next" "Community Software"
+
+.SH NAME
+Just a Line Next - an actively maintained continuation of Google's
+original Just a Line project.
+
+.SH DESCRIPTION
+Just a Line is no longer actively developed.
+
+Just a Line Next continues its journey by bringing the original
+experience to modern Android versions while introducing new features,
+improvements, and a refreshed interface.
+
+The goal is not to replace what made Just a Line special, but to
+preserve its original spirit while keeping the project alive,
+compatible, and enjoyable for the future.
+
+.SH DEVELOPMENT
+This project continues the original software through ongoing
+maintenance and development.
+
+New updates focus on:
+
+.IP (bu 2
+Modern Android compatibility.
+
+.IP (bu 2
+Material Design and Material Expressive interface improvements.
+
+.IP (bu 2
+New drawing and brush styles.
+
+.IP (bu 2
+Improved functionality and usability.
+
+.IP (bu 2
+Localization and language support.
+
+.IP (bu 2
+Ongoing bug fixes and maintenance.
+
+.IP (bu 2
+New features inspired by the original Just a Line experience.
+
+.SH PHILOSOPHY
+Software does not have to disappear simply because its original
+development has stopped.
+
+Just a Line Next exists to continue the journey.
+
+.SH DISCLAIMER
+This is an independent community continuation of the original
+Just a Line project and is not affiliated with, endorsed by,
+or officially maintained by Google.
+
+.SH MOTTO
+Keeping Just a Line Alive.
